@@ -4,6 +4,7 @@ You are welcome to try my project: [Git Branch Manager](https://gitbranchmanager
 
 [![](https://github.com/egor-xyz/gbm-site/blob/master/public/images/GBM_preview.png?raw=true)](#)
 
+Click on image to see GitHub Bug 🐛
 
 <!--
 **egor-xyz/egor-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
