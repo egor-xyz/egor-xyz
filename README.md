@@ -2,7 +2,7 @@
 
 You are welcome to try my project: [Git Branch Manager](https://gitbranchmanager.com/)
 
-![](https://github.com/egor-xyz/gbm-site/blob/master/public/images/GBM_preview.png?raw=true)
+![#](https://github.com/egor-xyz/gbm-site/blob/master/public/images/GBM_preview.png?raw=true)
 
 
 <!--
