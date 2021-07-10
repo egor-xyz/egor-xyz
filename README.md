@@ -3,7 +3,7 @@
 [<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://egor-xyz.medium.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/egorxyz/)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/2746447/egor-xyz)
-[<img src ="https://img.shields.io/badge/devkitty%2Eapp-important?style=for-the-badge">](https://devkitty.app/)
+[<img src ="https://img.shields.io/badge/devkitty%2Eapp-black?style=for-the-badge">](https://devkitty.app/)
 
 ## My GitHub Stats
 
