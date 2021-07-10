@@ -67,6 +67,7 @@
 >CI/CD
 <p>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/jenkins-blue.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img alt="CircleCI" src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/>
 </p>
 
