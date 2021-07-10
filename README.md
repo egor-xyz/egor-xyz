@@ -1,6 +1,6 @@
 #Hi! My name is Egor and I love to code :-)
 
-[![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=egor-xyz&count_private=true&show_icons=true&theme=onedark)](https://github.com/egor-xyz/github-readme-stats)
+[![Egor's GitHub stats](https://github-readme-stats-phi-opal.vercel.app/api?username=egor-xyz&count_private=true&show_icons=true&theme=onedark)](https://github.com/egor-xyz/github-readme-stats)
 
 ## Social & Blog
 
