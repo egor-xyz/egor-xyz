@@ -9,12 +9,14 @@
 
 <img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api?username=egor-xyz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" /><img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api/top-langs/?username=egor-xyz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark"/>
 
-## `Devkitty` - my electron desktop app for Git Repos
+## My project
+
+>`Devkitty` - Swiss army knife for developers
 
 [<img alt="Debkitty" src="https://github.com/egor-xyz/devkitty-app/blob/master/public/devkitty.app.png" width="30%"/>](https://devkitty.app/)
 
 
-## Tech Stacks
+## My Tech Stacks
 
 >Programming Languages
 <p>
