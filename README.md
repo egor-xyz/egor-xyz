@@ -5,6 +5,14 @@
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/2746447/egor-xyz)
 [<img src ="https://img.shields.io/badge/devkitty%2Eapp-important?style=for-the-badge">](https://devkitty.app/)
 
+## My GitHub Stats
+
+<img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api?username=egor-xyz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" /><img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api/top-langs/?username=egor-xyz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark"/>
+
+## `Devkitty` - my electron desktop app for Git Repos
+
+[<img alt="Debkitty" src="https://github.com/egor-xyz/devkitty-app/blob/master/public/devkitty.app.png" width="30%"/>](https://devkitty.app/)
+
 
 ## Tech Stacks
 
@@ -75,12 +83,3 @@
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
-## My GitHub Stats
-
-[![Egor's GitHub stats](https://github-readme-stats-phi-opal.vercel.app/api?username=egor-xyz&count_private=true&show_icons=true&theme=onedark)](https://github.com/egor-xyz/github-readme-stats)
-
-
-## You can try my electron desktop app for Git Devkitty
-
-[![](https://github.com/egor-xyz/devkitty-app/blob/master/public/devkitty.app.png)](https://devkitty.app/)
