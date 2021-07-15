@@ -11,9 +11,9 @@
 
 ## My project
 
->`Devkitty` - Swiss army knife for developers
+>[`Devkitty`](https://devkitty.app) - Swiss army knife for developers
 
-[<img alt="Debkitty" src="https://github.com/egor-xyz/devkitty/blob/main/assets/GitHub-App-Demo.png"/>](https://devkitty.app/)
+[![](https://github.com/egor-xyz/devkitty/blob/main/assets/GitHub-App-Demo.png)](https://devkitty.app/)
 
 
 ## My Tech Stacks
