@@ -13,7 +13,7 @@
 
 >`Devkitty` - Swiss army knife for developers
 
-[<img alt="Debkitty" src="https://github.com/egor-xyz/devkitty-app/blob/master/public/devkitty.app.png" width="30%"/>](https://devkitty.app/)
+[<img alt="Debkitty" src="https://github.com/egor-xyz/devkitty/blob/main/assets/GitHub-App-Demo.png"/>](https://devkitty.app/)
 
 
 ## My Tech Stacks
