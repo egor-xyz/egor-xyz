@@ -1,4 +1,6 @@
-<h1>Hi there, I'm Egor Stronhin</h1>
+# We are hiring!!! Join The Best company in the world - Dynamic Yield! [All jobs here](https://grnh.se/fae82cbb1)
+
+## Hi there, I'm Egor Stronhin
 
 [<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://egor-xyz.medium.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/egorxyz/)
