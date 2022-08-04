@@ -1,4 +1,4 @@
-# We are hiring! Join The Best company in the world - Dynamic Yield! [All jobs here](https://grnh.se/fae82cbb1)
+# We are hiring! Join The Best company in the world - Dynamic Yield (Mastercard)! [All jobs here](https://grnh.se/fae82cbb1)
 
 ## Hi there, I'm Egor Stronhin
 
