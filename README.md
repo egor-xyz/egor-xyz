@@ -13,12 +13,13 @@ Dynamic Yield (Mastercard) [All jobs here](https://grnh.se/fae82cbb1)
 
 <img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api?username=egor-xyz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" /><img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api/top-langs/?username=egor-xyz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark"/>
 
+[![GitHub Snake](https://github.com/egor-xyz/egor-xyz/blob/output/snake.svg)](#my-github-stats)
+
 ## My project
 
 >[`Devkitty`](https://devkitty.app) - Swiss army knife for developers
 
-[![](https://github.com/egor-xyz/devkitty/blob/main/assets/GitHub-App-Demo.png)](https://devkitty.app/)
-
+[![Devkitty demo](https://github.com/egor-xyz/devkitty/blob/main/assets/GitHub-App-Demo.png)](https://devkitty.app/)
 
 ## My Tech Stacks
 
