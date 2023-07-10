@@ -23,7 +23,7 @@ Dynamic Yield (Mastercard) [All jobs here](https://grnh.se/fae82cbb1)
 
 >[`Devkitty`](https://devkitty.app) - Swiss army knife for developers
 
-[![Devkitty demo](https://github.com/egor-xyz/devkitty/blob/main/assets/GitHub-App-Demo.png)](https://devkitty.app/)
+[![Devkitty demo](https://github.com/egor-xyz/devkitty-website/blob/main/public/images/GitHub-App-Demo.png)](https://devkitty.app/)
 
 ## My Tech Stacks
 
