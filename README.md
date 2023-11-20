@@ -1,7 +1,3 @@
-# We are hiring! Join The Best company in the world!
-
-Dynamic Yield (Mastercard) [All jobs here](https://grnh.se/fae82cbb1)
-
 ## Hi there, I'm Egor Stronhin
 
 [<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://egor-xyz.medium.com)
