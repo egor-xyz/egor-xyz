@@ -17,7 +17,7 @@
 
 ## My projects
 
-### Digest
+### Frontend Weekly News Digest
 
 [![digest-cover](https://github.com/egor-xyz/egor-xyz/assets/6418221/6dc9bcb7-3625-4547-9c6f-bb3613d347a1)](https://www.linkedin.com/newsletters/7153365464419614725/)
 
