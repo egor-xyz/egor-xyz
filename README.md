@@ -15,9 +15,28 @@
   <img alt="github-snake" src="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## My project
+## My projects
 
->[`Devkitty`](https://devkitty.app) - Swiss army knife for developers
+### Digest
+
+- [Read on Telegram](https://t.me/frontend_weekly_news_digest)
+- [Read on LinkedIn](https://www.linkedin.com/newsletters/7153365464419614725/)
+
+### VSCode Extensions
+
+- [VSCode Front-End Mega Extension Pack](https://marketplace.visualstudio.com/items?itemName=egor-xyz.front-end-mega-extension-pack)\
+  Make your Visual Studio Code the best IDE for the Front End developer
+- [VSCode Tailwind Mega Extension Pack](https://marketplace.visualstudio.com/items?itemName=egor-xyz.tailwind-mega-extension-pack)\
+  Make your Visual Studio Code the best IDE for the Tailwind framework
+
+### NPM Package
+
+- [ESLint configuration with hundreds of rules](https://www.npmjs.com/package/@egor.xyz/eslint-config)\
+  Ensure your ESLint configurations with the highest coding standards
+
+### Devkitty
+
+[`Devkitty`](https://devkitty.app) - Swiss army knife for developers
 
 [![Devkitty demo](https://github.com/egor-xyz/devkitty-website/blob/main/public/images/GitHub-App-Demo.png)](https://devkitty.app/)
 
