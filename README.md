@@ -19,15 +19,26 @@
 
 ### Digest
 
-- [Read on Telegram](https://t.me/frontend_weekly_news_digest)
-- [Read on LinkedIn](https://www.linkedin.com/newsletters/7153365464419614725/)
+[![digest-cover](https://github.com/egor-xyz/egor-xyz/assets/6418221/6dc9bcb7-3625-4547-9c6f-bb3613d347a1)](https://www.linkedin.com/newsletters/7153365464419614725/)
+
+[Read on Telegram](https://t.me/frontend_weekly_news_digest) | 
+[Read on LinkedIn](https://www.linkedin.com/newsletters/7153365464419614725/)
 
 ### VSCode Extensions
 
-- [VSCode Front-End Mega Extension Pack](https://marketplace.visualstudio.com/items?itemName=egor-xyz.front-end-mega-extension-pack)\
-  Make your Visual Studio Code the best IDE for the Front End developer
-- [VSCode Tailwind Mega Extension Pack](https://marketplace.visualstudio.com/items?itemName=egor-xyz.tailwind-mega-extension-pack)\
-  Make your Visual Studio Code the best IDE for the Tailwind framework
+#### [VSCode Front-End Mega Extension Pack](https://marketplace.visualstudio.com/items?itemName=egor-xyz.front-end-mega-extension-pack)
+
+Make your Visual Studio Code the best IDE for the Front End developer
+
+[![Frontend pack](https://github.com/egor-xyz/egor-xyz/assets/6418221/0109ecd1-02f7-40d7-bb7a-a4b404b51958)](https://marketplace.visualstudio.com/items?itemName=egor-xyz.front-end-mega-extension-pack)
+
+
+
+#### [VSCode Tailwind Mega Extension Pack](https://marketplace.visualstudio.com/items?itemName=egor-xyz.tailwind-mega-extension-pack)
+
+Make your Visual Studio Code the best IDE for the Tailwind framework
+
+[![Tailwind pack](https://github.com/egor-xyz/egor-xyz/assets/6418221/670b786a-75fe-47b6-8c05-b1dee19d6ba7)](https://marketplace.visualstudio.com/items?itemName=egor-xyz.tailwind-mega-extension-pack)
 
 ### NPM Package
 
