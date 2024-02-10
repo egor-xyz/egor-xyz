@@ -26,19 +26,17 @@
 
 ### VSCode Extensions
 
+[![Frontend pack](https://github.com/egor-xyz/egor-xyz/assets/6418221/ae695828-f623-4fe0-9c2b-99eea7a7017a)](https://marketplace.visualstudio.com/items?itemName=egor-xyz.front-end-mega-extension-pack)
+
 #### [VSCode Front-End Mega Extension Pack](https://marketplace.visualstudio.com/items?itemName=egor-xyz.front-end-mega-extension-pack)
 
 Make your Visual Studio Code the best IDE for the Front End developer
 
-[![Frontend pack](https://github.com/egor-xyz/egor-xyz/assets/6418221/0109ecd1-02f7-40d7-bb7a-a4b404b51958)](https://marketplace.visualstudio.com/items?itemName=egor-xyz.front-end-mega-extension-pack)
-
-
+[![Tailwind pack](https://github.com/egor-xyz/egor-xyz/assets/6418221/a87b2c97-bc17-4594-81b9-7781188bc138)](https://marketplace.visualstudio.com/items?itemName=egor-xyz.tailwind-mega-extension-pack)
 
 #### [VSCode Tailwind Mega Extension Pack](https://marketplace.visualstudio.com/items?itemName=egor-xyz.tailwind-mega-extension-pack)
 
 Make your Visual Studio Code the best IDE for the Tailwind framework
-
-[![Tailwind pack](https://github.com/egor-xyz/egor-xyz/assets/6418221/670b786a-75fe-47b6-8c05-b1dee19d6ba7)](https://marketplace.visualstudio.com/items?itemName=egor-xyz.tailwind-mega-extension-pack)
 
 ### NPM Package
 
