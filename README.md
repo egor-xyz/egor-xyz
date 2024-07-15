@@ -10,6 +10,8 @@
 
 <img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api?username=egor-xyz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" /><img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api/top-langs/?username=egor-xyz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark"/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=egor-xyz&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake.svg" />
