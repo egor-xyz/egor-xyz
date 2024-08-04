@@ -10,11 +10,6 @@
 
 <img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api?username=egor-xyz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" /><img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api/top-langs/?username=egor-xyz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=egor-xyz&row=1&no-frame=true&theme=onedark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=egor-xyz&row=1&no-frame=true" />
-  <img alt="github-snake" src="https://github-profile-trophy.vercel.app/?username=egor-xyz&row=1" />
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake-dark.svg" />
