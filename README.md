@@ -16,7 +16,7 @@
 
 ### Frontend Weekly News Digest
 
-[![digest-cover](https://github.com/egor-xyz/egor-xyz/assets/6418221/6dc9bcb7-3625-4547-9c6f-bb3613d347a1)](https://www.linkedin.com/newsletters/7153365464419614725/)
+![Digest Cover](https://github.com/user-attachments/assets/a4923868-ba62-4bfc-bb08-70fd0ac8a5b0)
 
 [Read on Telegram](https://t.me/frontend_weekly_news_digest) | 
 [Read on LinkedIn](https://www.linkedin.com/newsletters/7153365464419614725/)
