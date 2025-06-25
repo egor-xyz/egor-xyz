@@ -6,11 +6,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/egorxyz/)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/2746447/egor-xyz)
 
-## My GitHub Stats
-
-<img height="180em" src="https://github-readme-stats-eight-beige.vercel.app/api?username=egor-xyz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" /><img height="180em" src="https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=egor-xyz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark"/>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake.svg" />
