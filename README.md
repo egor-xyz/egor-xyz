@@ -1,7 +1,9 @@
 # Hi there, I'm Egor Stronhin
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=F78A1A&center=true&vCenter=true&width=480&lines=Frontend+Architect;Web+Performance+Enthusiast;Creative+Coder;News+Digger+%F0%9F%93%B0" alt="Typing SVG" />
+  <picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=F78A1A&center=true&vCenter=true&width=480&lines=Frontend+Architect;Web+Performance+Enthusiast;Creative+Coder;News+Digger+%F0%9F%93%B0" alt="Typing SVG" />
+  </picture>
 </p>
 
 [<img src ="https://img.shields.io/badge/egor%2Exyz-black?style=for-the-badge">](https://egor.xyz/)
