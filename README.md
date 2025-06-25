@@ -21,6 +21,12 @@
 
 ## Tools & Extensions
 
+<p align="center">
+  <picture>
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="120" alt="Animated React Logo" />
+  </picture>
+</p>
+
 - [VSCode Frontend Mega Extension Pack](https://marketplace.visualstudio.com/items?itemName=egor-xyz.front-end-mega-extension-pack)  
   All-in-one setup for frontend developers
 
