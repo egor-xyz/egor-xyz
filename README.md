@@ -1,11 +1,5 @@
 # Hi there, I'm Egor Stronhin
 
-<p align="center">
-  <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=F78A1A&center=true&vCenter=true&width=480&lines=Frontend+Architect;Web+Performance+Enthusiast;Creative+Coder;News+Digger+%F0%9F%93%B0" alt="Typing SVG" />
-  </picture>
-</p>
-
 [<img src ="https://img.shields.io/badge/egor%2Exyz-black?style=for-the-badge">](https://egor.xyz/)
 [<img src ="https://img.shields.io/badge/devkitty%2Eapp-black?style=for-the-badge">](https://devkitty.app/)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://egor-xyz.medium.com)
@@ -16,7 +10,13 @@
 
 ### Frontend Weekly News Digest
 
-![Digest Cover](https://github.com/user-attachments/assets/a4923868-ba62-4bfc-bb08-70fd0ac8a5b0)
+<p align="center">
+  <picture>
+    <img src="https://github.com/user-attachments/assets/a4923868-ba62-4bfc-bb08-70fd0ac8a5b0" alt="Typing SVG" />
+  </picture>
+</p>
+
+
 
 [Read on Telegram](https://t.me/frontend_weekly_news_digest) | 
 [Read on LinkedIn](https://www.linkedin.com/newsletters/7153365464419614725/)
