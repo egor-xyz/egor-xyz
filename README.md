@@ -6,6 +6,10 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/egorxyz/)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/2746447/egor-xyz)
 
+<picture>
+  <img src="https://github.com/user-attachments/assets/a516fdd0-f4f3-4ec8-af08-cb3bf316aaa6" />
+</picture>
+
 ## My projects
 
 ### Frontend Weekly News Digest
