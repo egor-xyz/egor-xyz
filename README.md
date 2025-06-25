@@ -10,9 +10,7 @@
   <img src="https://github.com/user-attachments/assets/a516fdd0-f4f3-4ec8-af08-cb3bf316aaa6" />
 </picture>
 
-## My projects
-
-### Frontend Weekly News Digest
+## Frontend Weekly News Digest
 
 <p align="center">
   <picture>
@@ -20,39 +18,37 @@
   </picture>
 </p>
 
-
-
-[Read on Telegram](https://t.me/frontend_weekly_news_digest) | 
+[Read on Telegram](https://t.me/frontend_weekly_news_digest) or
 [Read on LinkedIn](https://www.linkedin.com/newsletters/7153365464419614725/)
 
-### VSCode Extensions
+## VSCode Extensions
 
-[![Frontend pack](https://github.com/egor-xyz/egor-xyz/assets/6418221/ae695828-f623-4fe0-9c2b-99eea7a7017a)](https://marketplace.visualstudio.com/items?itemName=egor-xyz.front-end-mega-extension-pack)
-
-#### [VSCode Front-End Mega Extension Pack](https://marketplace.visualstudio.com/items?itemName=egor-xyz.front-end-mega-extension-pack)
+### [VSCode Front-End Mega Extension Pack](https://marketplace.visualstudio.com/items?itemName=egor-xyz.front-end-mega-extension-pack)
 
 Make your Visual Studio Code the best IDE for the Front End developer
 
-[![Tailwind pack](https://github.com/egor-xyz/egor-xyz/assets/6418221/a87b2c97-bc17-4594-81b9-7781188bc138)](https://marketplace.visualstudio.com/items?itemName=egor-xyz.tailwind-mega-extension-pack)
-
-#### [VSCode Tailwind Mega Extension Pack](https://marketplace.visualstudio.com/items?itemName=egor-xyz.tailwind-mega-extension-pack)
+### [VSCode Tailwind Mega Extension Pack](https://marketplace.visualstudio.com/items?itemName=egor-xyz.tailwind-mega-extension-pack)
 
 Make your Visual Studio Code the best IDE for the Tailwind framework
 
-### NPM Package
+## NPM Package
 
 - [ESLint configuration with hundreds of rules](https://www.npmjs.com/package/@egor.xyz/eslint-config)\
   Ensure your ESLint configurations with the highest coding standards
 
-### Devkitty
+## Devkitty
 
 [`Devkitty`](https://devkitty.app) - Swiss army knife for developers
 
 [![Devkitty demo](https://github.com/egor-xyz/devkitty-website/blob/main/public/images/GitHub-App-Demo.png)](https://devkitty.app/)
 
+<h2></h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+
