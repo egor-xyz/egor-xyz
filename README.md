@@ -6,12 +6,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/egorxyz/)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/2746447/egor-xyz)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ## My projects
 
 ### Frontend Weekly News Digest
@@ -47,3 +41,8 @@ Make your Visual Studio Code the best IDE for the Tailwind framework
 [![Devkitty demo](https://github.com/egor-xyz/devkitty-website/blob/main/public/images/GitHub-App-Demo.png)](https://devkitty.app/)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake.svg" />
+</picture>
