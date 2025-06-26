@@ -16,7 +16,7 @@
 - [Read on LinkedIn](https://www.linkedin.com/newsletters/7153365464419614725/)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a4923868-ba62-4bfc-bb08-70fd0ac8a5b0" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/d3fb02b9-f511-461e-a91e-b29a2d4cb275" alt="Digest Cover" />
 </p>
 
 ## Tools & Extensions
