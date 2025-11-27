@@ -10,6 +10,7 @@
   <img src="https://github.com/user-attachments/assets/a516fdd0-f4f3-4ec8-af08-cb3bf316aaa6" />
 </picture>
 
+
 ## Your Dose of Frontend
 
 - [Read on Telegram](https://t.me/frontend_weekly_news_digest)  
@@ -50,3 +51,5 @@
     <img alt="github-snake" src="https://github.com/egor-xyz/egor-xyz/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+![Egor's GitHub stats](https://github-readme-stats-eight-beige.vercel.app/api?username=egor-xyz&show=icons,prs_merged,prs_merged_percentage&theme=transparent&show_icons=true&hide_border=true)
