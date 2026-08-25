@@ -39,9 +39,9 @@
 
 ## Devkitty
 
-[Devkitty](https://devkitty.app) - Swiss army knife for developers
+[Devkitty](https://devkitty.app) All your repos. One calm window.
 
-[![Devkitty demo](https://github.com/egor-xyz/devkitty-website/blob/main/public/images/GitHub-App-Demo.png)](https://devkitty.app/)
+[![Devkitty demo](https://github.com/user-attachments/assets/fdb4e0c4-2ac1-41fd-adaa-2c292af24c28)](https://devkitty.app/)
 
 <h2></h2>
 <p align="center">
